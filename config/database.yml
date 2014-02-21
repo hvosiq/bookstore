@@ -28,10 +28,10 @@ test:
 production:
   encoding: unicode
   adapter: postgresql
-  username: shrunzzagwktdw
-  password: FvCoXWwNhW3gl-NZ4A1XmhVn4w
+  username: wwqzueetjrzvuc
+  password: 50A_ppGUI2Y7j84x4oda8U0VxW
   pool: 5
   port: 5432
-  host: ec2-54-204-45-126.compute-1.amazonaws.com
-  database: d1tba179du8g8f
+  host: ec2-23-21-170-57.compute-1.amazonaws.com
+  database: d74enep7h540r4
   min_messages: WARNING
